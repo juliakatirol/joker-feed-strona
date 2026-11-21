@@ -43,9 +43,9 @@ p {
    transform: translate(175px, -20px);
    background: linear-gradient(
     to bottom,
-    #000000 0%,
-    #808080 11%, 
-    #ffffff 21%);
+    #000000 5%,
+    #808080 65%, 
+    #ffffff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   
