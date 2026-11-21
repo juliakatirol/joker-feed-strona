@@ -35,8 +35,11 @@ a {
 p {
   margin: 0;
   text-shadow: 10px 10px 10px  rgba(0, 0, 0, 0.25);;
-  font-family: Italianno;
+  font-family: Italianno, cursive;
   text-transform: lowercase;
+  font-size: 48px;
+  font-weight: 400;
+  
 }
 
     
