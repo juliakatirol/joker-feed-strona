@@ -39,7 +39,8 @@ p {
   text-transform: lowercase;
   font-size: 65px;
   font-weight: 500;
-   transform: translateX(175px);
+   transform: translate(175px, -20px);
+   color: #888888;
   
 }
 
